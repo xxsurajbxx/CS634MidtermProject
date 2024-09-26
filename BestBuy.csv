@@ -1,0 +1,21 @@
+Transaction Number,Items Bought
+1,"['Smart Phone', 'Smart Phone Charger']"
+2,"['Desktop PC', 'Keyboard', 'Computer Mouse']"
+3,"['PlayStation', 'TV']"
+4,"['Smart Phone', 'Speaker']"
+5,"['TV', 'Speaker']"
+6,['Washing Machine']
+7,['Refrigerator']
+8,['Smart Phone']
+9,['PlayStation']
+10,"['Desktop PC', 'TV', 'Speaker']"
+11,"['Smart Phone', 'TV']"
+12,"['PlayStation', 'Speaker']"
+13,"['Desktop PC', 'Keyboard']"
+14,['Smart Phone Charger']
+15,['Computer Mouse']
+16,['Desktop PC']
+17,"['Smart Phone', 'TV', 'Smart Phone Charger']"
+18,"['Washing Machine', 'Refrigerator', 'Smart Phone']"
+19,['TV']
+20,"['Smart Phone', 'Smart Phone Charger', 'Computer Mouse']"

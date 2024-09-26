@@ -1,0 +1,21 @@
+Transaction Number,Items Bought
+1,"['Guitar Hero', 'Guitar Hero Guitar']"
+2,"['PlayStation', 'PlayStation Controller']"
+3,"['Xbox', 'Xbox Controller']"
+4,['Uncharted 4']
+5,['NBA 2k25']
+6,['Halo 4']
+7,['Smash Ultimate']
+8,['PlayStation']
+9,"['Guitar Hero Guitar', 'Guitar Hero']"
+10,"['PlayStation', 'NBA 2k25']"
+11,"['PlayStation', 'Uncharted 4']"
+12,"['Xbox', 'Halo 4']"
+13,"['Xbox Controller', 'Halo 4']"
+14,"['PlayStation Controller', 'NBA 2k25']"
+15,['Smash Ultimate']
+16,"['Guitar Hero', 'Smash Ultimate']"
+17,"['PlayStation Controller', 'Uncharted 4']"
+18,"['Xbox', 'Xbox Controller']"
+19,['PlayStation Controller']
+20,"['Halo 4', 'Xbox Controller']"

@@ -1,0 +1,21 @@
+Transaction Number,Items Bought
+1,"['Nails', 'Hammer', 'Wood']"
+2,"['Screws', 'Hammer', 'Wood']"
+3,"['Seeds', 'Fertilizer', 'Shovel']"
+4,"['Lawnmower', 'Seeds', 'Fertilizer']"
+5,['Lightbulb']
+6,"['Nails', 'Screws', 'Wood']"
+7,"['Hammer', 'Nails']"
+8,"['Shovel', 'Seeds', 'Fertilizer']"
+9,['Lawnmower']
+10,"['Screws', 'Hammer']"
+11,"['Lightbulb', 'Hammer']"
+12,"['Seeds', 'Lawnmower']"
+13,['Oven']
+14,"['Wood', 'Hammer', 'Nails']"
+15,"['Fertilizer', 'Shovel']"
+16,['Seeds']
+17,['Lightbulb']
+18,"['Hammer', 'Wood']"
+19,['Oven']
+20,"['Lawnmower', 'Fertilizer', 'Seeds']"
